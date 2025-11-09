@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>GAMs Introduction</title>
+    <link rel="stylesheet" href="https://unpkg.com/reveal.js/dist/reveal.css">
+    <link rel="stylesheet" href="https://unpkg.com/reveal.js/dist/theme/white.css">
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section>
+          <h2>Introduction to Generalized Additive Models (GAMs)</h2>
+          <p><strong>GAMs</strong> extend traditional regression by modeling nonlinear relationships with smooth functions.</p>
+          <ul>
+            <li>Introduced by Hastie & Tibshirani (1986, 1990)</li>
+            <li>Built on Generalized Linear Models (GLMs)</li>
+            <li>Balance flexibility and interpretability</li>
+            <li>Used in finance, healthcare, auditing, and cybersecurity</li>
+            <li>Enable transparent, stakeholder-friendly modeling</li>
+          </ul>
+        </section>
+      </div>
+    </div>
+    <script src="https://unpkg.com/reveal.js/dist/reveal.js"></script>
+    <script>
+      Reveal.initialize();
+    </script>
+  </body>
+</html>
